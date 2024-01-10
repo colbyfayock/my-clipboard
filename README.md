@@ -1,12 +1,12 @@
-# Scrolling to Elements & the Top of the Page in React
+# Copying to Clipboard in React
 
-Demo for tutorial [How to Scroll to an Element in React](https://youtube.com/colbyfayock)
+Demo for tutorial [How to Copy to Clipboard in React](https://youtube.com/colbyfayock)
 
 📝 Article: https://spacejelly.dev/
 
 📺 YouTube: https://youtube.com/colbyfayock
 
-🚀 Demo: https://my-scrolling.vercel.app/
+🚀 Demo: https://my-clipboard.vercel.app/
 
 ## More tutorials and walkthroughs
 
