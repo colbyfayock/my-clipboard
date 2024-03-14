@@ -1,10 +1,10 @@
 # Copying to Clipboard in React
 
-Demo for tutorial [How to Copy to Clipboard in React](https://youtube.com/colbyfayock)
+Demo for tutorial [How to Copy to Clipboard in React](https://www.youtube.com/watch?v=T9F0R86Zfy8&t=13s)
 
-📝 Article: https://spacejelly.dev/
+📝 Article: https://spacejelly.dev/posts/how-to-copy-to-clipboard-in-react
 
-📺 YouTube: https://youtube.com/colbyfayock
+📺 YouTube: https://www.youtube.com/watch?v=T9F0R86Zfy8&t=13s
 
 🚀 Demo: https://my-clipboard-spacejelly.vercel.app
 
