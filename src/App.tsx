@@ -89,12 +89,12 @@ function App() {
       <h2 className="text-2xl font-bold mt-12 mb-6">Cool Images</h2>
 
       <div className="grid grid-cols-2">
-        <img width="240" height="240" src="https://res.cloudinary.com/spacejelly-tutorials/image/upload/v1704743747/my-clipboard/Windows_11_Clippy_paperclip_emoji_rlnfod.png" />
+        <img width="240" height="240" src="https://res.cloudinary.com/fay/image/upload/v1729824220/tutorials/my-clipboard/Windows_11_Clippy_paperclip_emoji_rlnfod.png" />
         <button className="btn" onClick={async () => {
 
           // Downloading an image Blob
 
-          const response = await fetch('https://res.cloudinary.com/spacejelly-tutorials/image/upload/v1704743747/my-clipboard/Windows_11_Clippy_paperclip_emoji_rlnfod.png');
+          const response = await fetch('https://res.cloudinary.com/fay/image/upload/v1729824220/tutorials/my-clipboard/Windows_11_Clippy_paperclip_emoji_rlnfod.png');
           const contentType = response.headers.get('Content-Type');
           const blob = await response.blob();
 
